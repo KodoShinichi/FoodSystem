@@ -3,7 +3,7 @@
 *菜谱子类 ：继承表单父类
 *@author 刘芫
 *@since jdk1.8
-*@version 5.0
+*@version 1.0
 */
 
 public class FoodMenusEntity extends TableFather{

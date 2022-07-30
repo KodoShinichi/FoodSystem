@@ -3,7 +3,7 @@
 *±Ìµ•∏∏¿‡ 
 *@author ¡ı‹æ
 *@since jdk1.8
-*@version 5.0
+*@version 1.0
 */
 
 public class TableFather{

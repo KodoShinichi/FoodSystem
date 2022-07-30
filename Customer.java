@@ -4,7 +4,7 @@ import java.util.Scanner;
 *客户类 调度6个动作
 *@author 刘芫
 *@since jdk1.8
-*@version 8.0
+*@version 1.0
 */
 
 public class Customer {
