@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
-*系统菜单类：负责打印输出系统菜单，不能修改或删除
+*系统菜单类：负责打印输出系统菜单
 *@author 刘芫
 *@since jdk1.8
 *@version 1.0
